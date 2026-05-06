@@ -1,0 +1,6 @@
+target/
+brain-ui/node_modules/
+brain-ui/dist/
+node_modules/
+.git/
+*.log
