@@ -1,6 +1,8 @@
 services:
   brain-ui:
-    image: nginx:alpine
+    build:
+      context: .
+      dockerfile: brain-ui/Dockerfile.prod
     restart: always
     labels:
       - traefik.enable=true
@@ -8,8 +10,6 @@ services:
       - traefik.http.routers.brain-ui.entrypoints=websecure
       - traefik.http.routers.brain-ui.tls.certresolver=letsencrypt
       - traefik.docker.network=ai-network
-    volumes:
-      - ./brain-ui/dist:/usr/share/nginx/html
     networks:
       - ai-network
 
