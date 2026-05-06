@@ -920,7 +920,7 @@
     "url": "https://www.bworldonline.com/feed/",
     "category": "Global_News",
     "enabled": true,
-    "failure_count": 1,
+    "failure_count": 2,
     "last_error": "unable to parse JSON: expected value at line 1 column 1"
   },
   {
