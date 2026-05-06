@@ -1,0 +1,58 @@
+services:
+  brain-ui:
+    image: nginx:alpine
+    restart: always
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.brain-ui.rule=Host(`brain.kluth.cloud`)
+      - traefik.http.routers.brain-ui.entrypoints=websecure
+      - traefik.http.routers.brain-ui.tls.certresolver=letsencrypt
+      - traefik.docker.network=ai-network
+    volumes:
+      - ./brain-ui/dist:/usr/share/nginx/html
+    networks:
+      - ai-network
+
+  brain-api:
+    build: 
+      context: .
+      dockerfile: brain-api/Dockerfile
+    restart: always
+    environment:
+      - WEAVIATE_URL=http://weaviate:8080
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.brain-api.rule=Host(`api.brain.kluth.cloud`)
+      - traefik.http.routers.brain-api.entrypoints=websecure
+      - traefik.http.routers.brain-api.tls.certresolver=letsencrypt
+      - traefik.docker.network=ai-network
+    networks:
+      - default
+      - ai-network
+
+  brain-ingestion:
+    build:
+      context: .
+      dockerfile: brain-ingestion/Dockerfile
+    restart: always
+    environment:
+      - WEAVIATE_URL=http://weaviate:8080
+      - REDIS_URL=redis://redis:6379/
+      - TRANSLATE_URL=http://translate:5000/translate
+      - OLLAMA_URL=http://ollama:11434/api/generate
+      - OLLAMA_MODEL=llama3
+    depends_on:
+      - redis
+    networks:
+      - default
+      - ai-network
+
+  redis:
+    image: redis:7-alpine
+    restart: always
+    networks:
+      - default
+
+networks:
+  ai-network:
+    external: true

@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "brain-core",
+    "brain-cache",
+    "brain-ingestion",
+    "brain-api",
+]
+resolver = "2"

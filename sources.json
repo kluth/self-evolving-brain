@@ -1,0 +1,1829 @@
+[
+  {
+    "url": "https://rp-online.de/nrw/staedte/duisburg/feed.rss",
+    "category": "Local_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.presseportal.de/blaulicht/l/duisburg/rss",
+    "category": "Local_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "http://api.patrika.com/rss/india-news",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "error sending request for url (https://api.patrika.com/rss/india-news): operation timed out"
+  },
+  {
+    "url": "http://feeds.bbci.co.uk/news/rss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://feeds.bbci.co.uk/news/world/asia/india/rss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://feeds.feedburner.com/IndependentAustralia",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://feeds.feedburner.com/Nigerianeye",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://feeds.feedburner.com/ScrollinArticles.rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://feeds.feedburner.com/SdJapan",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://feeds.feedburner.com/Techpinas",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://feeds.feedburner.com/daily-express-news-showbiz",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://feeds.feedburner.com/techgenyz",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://feeds.feedburner.com/wPolitycepl",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://feeds.foxnews.com/foxnews/latest",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://feeds.hongkongnews.net/rss/b82693edf38ebff8",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://feeds.news24.com/articles/news24/TopStories/rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "http://feeds.washingtonpost.com/rss/world",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "error sending request for url (https://feeds.washingtonpost.com/rss/world): operation timed out"
+  },
+  {
+    "url": "http://indianexpress.com/print/front-page/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "http://k.img.com.ua/rss/ru/all_news2.0.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://myanmargazette.net/feed",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "http://newsfeed.zeit.de/index",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://rss.adnkronos.com/RSS_PrimaPagina.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://rss.asahi.com/rss/asahi/newsheadlines.rdf",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://rss.cnn.com/rss/edition.rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://rss.dziennik.pl/Dziennik-PL/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://rss.gazetaprawna.pl/GazetaPrawna",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://rss.home.uol.com.br/index.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://rss.iol.io/iol/news",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://rssfeeds.9news.com/kusa/home&x=1",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "error sending request for url (http://rssfeeds.9news.com/kusa/home&x=1): error trying to connect: dns error: failed to lookup address information: Name or service not known"
+  },
+  {
+    "url": "http://saharareporters.com/feeds/latest/feed",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "http://tass.com/rss/v2.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://tempo.com.ph/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "error sending request for url (http://tempo.com.ph/feed/): operation timed out"
+  },
+  {
+    "url": "http://tribuneonlineng.com/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "http://www.bicolstandard.com/feeds/posts/default?alt=rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "http://www.brasilwire.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://www.dvb.no/feed",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "http://www.ebc.com.br/rss/feed.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse JSON: missing field `version` at line 1 column 26"
+  },
+  {
+    "url": "http://www.independent.co.uk/news/uk/rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://www.moneycontrol.com/rss/latestnews.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "http://www.newsonjapan.com/rss/top.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://www.tagesschau.de/xml/rss2",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "http://www.thithtoolwin.com/feeds/posts/default",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://8columnas.com.mx/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://api.axios.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://business.financialpost.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://businessmirror.com.ph/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://censor.net.ua/includes/news_ru.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://citizen.co.za/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://currentph.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://dailypost.ng/feed",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://data.gmanews.tv/gno/rss/news/feed.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://diario.mx/jrz/media/sitemaps/rss.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://english.kyodonews.net/rss/all.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://espreso.tv/rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://ewn.co.za/RSS%20Feeds/Latest%20News",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://feed.livehindustan.com/rss/3127",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://feeds.breakingnews.ie/bntopstories",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://feeds.feedburner.com/IrishCentral",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://feeds.feedburner.com/com/rCTl",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://feeds.feedburner.com/ietopstories",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://feeds.feedburner.com/opindia",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://feeds.thelocal.com/rss/es",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://feeds.thelocal.com/rss/it",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://gazeta.ua/rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://globalnews.ca/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://gordonua.com/xml/rss_category/top.html",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://guardian.ng/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://hd.stheadline.com/rss/news/daily/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://indaily.com.au/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://jang.com.pk/rss/1/1",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://japantoday.com/feed",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://jornaldebrasilia.com.br/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://lenta.ru/rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "error sending request for url (https://lenta.ru/rss): error trying to connect: dns error: failed to lookup address information: Temporary failure in name resolution"
+  },
+  {
+    "url": "https://lokmat.news18.com/rss/program.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://maharashtratimes.com/rssfeedsdefault.cms",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://manilastandard.net/feed/all",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://meduza.io/rss/all",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://mexiconewsdaily.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://nation.com.pk/rss/top-stories",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://nationalpost.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://navbharattimes.indiatimes.com/rssfeedsdefault.cms",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://news.livedoor.com/topics/rss/top.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://news.yahoo.com/rss/mostviewed",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://newsnblogs.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://noticias.r7.com/feed.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://nv.ua/rss/all.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://ottawacitizen.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://pia.gov.ph/news/feed.rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://prod-qt-images.s3.amazonaws.com/production/swarajya/feed.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://quequi.com.mx/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://rg.ru/xml/index.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "error sending request for url (https://rg.ru/xml/index.xml): error trying to connect: dns error: failed to lookup address information: Temporary failure in name resolution"
+  },
+  {
+    "url": "https://riotimesonline.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://rss.dw.com/rdf/rss-en-all",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://rss.elconfidencial.com/espana/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://rss.focus.de/fol/XML/rss_folnews.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://rss.newsru.com/top/big/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://rss.politico.com/playbook.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://rss.unian.net/site/news_eng.rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://rss.unian.net/site/news_rus.rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://russia-insider.com/en/all-content/rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://techcentral.co.za/feed",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://telegraf.com.ua/yandex-feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://thenationonlineng.net/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://theprint.in/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://theprovince.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 1,
+    "last_error": "error sending request for url (https://theprovince.com/feed): operation timed out"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://tonite.abante.com.ph/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://torontosun.com/category/news/feed",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://tribune.com.pk/feed/home",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://tsn.ua/rss/full.rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://vanguardia.com.mx/rss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://vesti.ua/feeds/partners",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "error sending request for url (https://vesti.ua/feeds/partners): error trying to connect: dns error: failed to lookup address information: Temporary failure in name resolution"
+  },
+  {
+    "url": "https://www.24-horas.mx/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.abc.net.au/news/feed/1948/rss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.amarujala.com/rss/breaking-news.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.ansa.it/sito/ansait_rss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.asriran.com/fa/rss/allnews",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "error sending request for url (https://www.asriran.com/fa/rss/allnews): operation timed out"
+  },
+  {
+    "url": "https://www.banglanews24.com/rss/rss.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.bd24live.com/feed",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.bhaskar.com/rss-feed/1061/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.brisbanetimes.com.au/rss/feed.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.business-standard.com/rss/home_page_top_stories.rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.businessnews.com.au/rssfeed/latest.rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.bworldonline.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 1,
+    "last_error": "unable to parse JSON: expected value at line 1 column 1"
+  },
+  {
+    "url": "https://www.canberratimes.com.au/rss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.cbc.ca/cmlink/rss-topstories",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.couriermail.com.au/rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.dailymail.co.uk/home/index.rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.dailymaverick.co.za/dmrss/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.dailytelegraph.com.au/news/breaking-news/rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.debate.com.mx/rss/feed.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.deccanchronicle.com/rss_feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.diariodelweb.it/rss/home/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.diplomatie.gouv.fr/spip.php?page=backend-fd&lang=en",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.divyabhaskar.co.in/rss-feed/1037/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.dnaindia.com/feeds/india.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.eaglenews.ph/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.efe.com/efe/english/4/rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.eldiario.es/rss/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.elnorte.com/rss/portada.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.elperiodico.com/es/rss/rss_portada.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.elsiglodetorreon.com.mx/index.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.eluniversal.com.mx/seccion/1671/rss.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.euroweeklynews.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.excelsior.com.mx/rss.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.express.pk/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.fanpage.it/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.faz.net/rss/aktuell/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.financialexpress.com/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.firstpost.com/rss/india.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.france24.com/en/rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.francetvinfo.fr/titres.rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.freepressjournal.in/stories.rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.gazeta.ru/export/rss/first.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.gujaratsamachar.com/rss/top-stories",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.heraldsun.com.au/news/breaking-news/rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.hket.com/rss/hongkong",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.hongkongfp.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.huffingtonpost.es/feeds/index.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.huffingtonpost.fr/feeds/index.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.huffpost.com/section/world-news/feed",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.ilmattino.it/?sez=XML&args&p=search&args[box]=Home&limit=20&layout=rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.ilpost.it/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.indiatoday.in/rss/home",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.informador.mx/rss/ultimas-noticias.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.informationng.com/feed",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.inquirer.net/fullfeed",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.interaksyon.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.internazionale.it/sitemaps/rss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.irishmirror.ie/?service=rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.isna.ir/rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.jagonews24.com/rss/rss.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.jansatta.com/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.japantimes.co.jp/feed/topstories/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.jugantor.com/feed/rss.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.kalerkantho.com/rss.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.khabaronline.ir/rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/main.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.ladepeche.fr/rss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.lapresse.ca/actualites/rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.latimes.com/world-nation/rss2.0.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.legit.ng/rss/all.rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.lemonde.fr/rss/une.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.liberoquotidiano.it/rss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.loksatta.com/desh-videsh/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.manilatimes.net/rssfeed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.mediapart.fr/articles/feed",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.mehrnews.com/rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.merdeka.com/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse JSON: expected value at line 1 column 1"
+  },
+  {
+    "url": "https://www.michaelwest.com.au/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.milannews.it/rss/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.mk.ru/rss/index.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.moneyweb.co.za/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.news18.com/rss/world.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.newsweek.pl/rss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.nigerianbulletin.com/forums/-/index.rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.nouvelobs.com/a-la-une/rss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.oneindia.com/rss/news-fb.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.ouest-france.fr/rss-en-continu.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.outlookindia.com/rss/main/magazine",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.panorama.it/feeds/feed.rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.pap.pl/rss.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.parisstaronline.com/feed",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.perthnow.com.au/news/feed",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.philnews.xyz/feeds/posts/default?alt=rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.philstar.com/rss/headlines",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.pna.gov.ph/latest.rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.pravda.com.ua/rss/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.pravdareport.com/export.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.premiumtimesng.com/feed",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.prothomalo.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.reforma.com/rss/portada.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.repubblica.it/rss/homepage/rss2.0.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.republika.co.id/rss/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.rmf24.pl/feed",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.rp.pl/rss/1019",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.rt.com/rss/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "error sending request for url (https://www.rt.com/rss/): error trying to connect: dns error: failed to lookup address information: Temporary failure in name resolution"
+  },
+  {
+    "url": "https://www.sebi.gov.in/sebirss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.smh.com.au/rss/feed.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.sowetanlive.co.za/rss/?publication=sowetan-live",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.suara.com/rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.sudouest.fr/essentiel/rss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.sunstar.com.ph/rssFeed/selected",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.tabnak.ir/fa/rss/allnews",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "error sending request for url (https://www.tabnak.ir/fa/rss/allnews): operation timed out"
+  },
+  {
+    "url": "https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "error sending request for url (https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85): error trying to connect: dns error: failed to lookup address information: Name or service not known"
+  },
+  {
+    "url": "https://www.the42.ie/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.theage.com.au/rss/feed.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.thedailystar.net/frontpage/rss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.theguardian.com/world/india/rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.theguardian.com/world/italy/rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.theguardian.com/world/mexico/rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.theguardian.com/world/rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.thehindu.com/feeder/default.rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/feeder/default.rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.thejournal.ie/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.themercury.com.au/rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.themoscowtimes.com/rss/news",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.thenews.com.pk/rss/1/1",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.thesouthafrican.com/feed/",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.thestandard.com.hk/newsfeed/latest/news.xml",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.topstories.rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.timeslive.co.za/rss/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.topgear.com.ph/feed/rss1",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.tribunnews.com/rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.unbox.ph/feed/",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.urdupoint.com/rss/urdupoint.rss",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.vesti.ru/vesti.rss",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "unable to parse feed: no root element"
+  },
+  {
+    "url": "https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml",
+    "category": "Global_News",
+    "enabled": true,
+    "failure_count": 0,
+    "last_error": null
+  },
+  {
+    "url": "https://www.yjc.ir/fa/rss/allnews",
+    "category": "Global_News",
+    "enabled": false,
+    "failure_count": 5,
+    "last_error": "error sending request for url (https://www.yjc.ir/fa/rss/allnews): operation timed out"
+  }
+]
