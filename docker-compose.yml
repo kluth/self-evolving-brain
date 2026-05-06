@@ -3,6 +3,8 @@ services:
     build: 
       context: .
       dockerfile: brain-api/Dockerfile
+      args:
+        - CACHE_BUST=1
     restart: always
     environment:
       - WEAVIATE_URL=http://weaviate:8080
