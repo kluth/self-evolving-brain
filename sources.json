@@ -787,8 +787,8 @@
     "url": "https://theprovince.com/feed/",
     "category": "Global_News",
     "enabled": true,
-    "failure_count": 1,
-    "last_error": "error sending request for url (https://theprovince.com/feed): operation timed out"
+    "failure_count": 0,
+    "last_error": null
   },
   {
     "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
